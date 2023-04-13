@@ -6,3 +6,5 @@ Consumption of electricity is known to follow economic activity closely. The ind
 Here is a notebook to give you a brief intro of the dataset that I created, through interactive visualizations which will allow you to browse through data visually. The intension is to build an intuition about the data thereby being able to answer questions of relevance. The date ranges from 28/10/2019 to 23/05/2020.
 
 In this notebook I have put my hands on interactive plots which will enable anyone to browse the data with a few clicks. I hope you like it and get your hands on the dataset to build a notebook of your own.
+
+Run the .ipynb file to get the results.
